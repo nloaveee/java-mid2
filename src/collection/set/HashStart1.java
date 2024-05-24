@@ -2,7 +2,7 @@ package collection.set;
 
 import java.util.Arrays;
 
-public class HashSet1 {
+public class HashStart1 {
     public static void main(String[] args) {
 
         Integer[] inputArray = new Integer[4];
